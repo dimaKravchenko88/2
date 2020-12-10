@@ -1,0 +1,13 @@
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\bin\Debug\netcoreapp3.1\Танасов_Лаб_02.exe
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\bin\Debug\netcoreapp3.1\Танасов_Лаб_02.deps.json
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\bin\Debug\netcoreapp3.1\Танасов_Лаб_02.runtimeconfig.json
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\bin\Debug\netcoreapp3.1\Танасов_Лаб_02.runtimeconfig.dev.json
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\bin\Debug\netcoreapp3.1\Танасов_Лаб_02.dll
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\bin\Debug\netcoreapp3.1\Танасов_Лаб_02.pdb
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\obj\Debug\netcoreapp3.1\Танасов_Лаб_02.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\obj\Debug\netcoreapp3.1\Танасов_Лаб_02.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\obj\Debug\netcoreapp3.1\Танасов_Лаб_02.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\obj\Debug\netcoreapp3.1\Танасов_Лаб_02.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\obj\Debug\netcoreapp3.1\Танасов_Лаб_02.dll
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\obj\Debug\netcoreapp3.1\Танасов_Лаб_02.pdb
+C:\Users\Денис\Desktop\Новая папка (2)\Танасов_Лаб_02\Танасов_Лаб_02\obj\Debug\netcoreapp3.1\Танасов_Лаб_02.genruntimeconfig.cache
